@@ -1,0 +1,14 @@
+#
+#waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:visibility_type:destination
+#
+waypoint:chunk:C:251:76:-46:7:false:0:gui.xaero_default:false:0:0:false
+waypoint:base 2:B:-123:64:718:13:false:0:gui.xaero_default:false:0:0:false
+waypoint:portal:P:1121:39:1148:6:false:0:gui.xaero_default:false:0:1:false
+waypoint:stash:S:-134:63:627:14:false:0:gui.xaero_default:false:0:0:false
+waypoint:farm2:F:84:63:1773:5:false:0:gui.xaero_default:false:0:0:false
+waypoint:raid farm:R:-81:64:1665:14:false:0:gui.xaero_default:false:0:1:false
+waypoint:v:Vo:776:111:803:3:false:0:gui.xaero_default:false:0:0:false
+waypoint:bsde:B:-188:64:650:14:false:0:gui.xaero_default:false:0:0:false
+waypoint:portal:P:-10:71:623:8:false:0:gui.xaero_default:false:0:0:false
+waypoint:ocean:O:229:55:1596:13:false:0:gui.xaero_default:false:0:0:false
+waypoint:spa:S:-170:11:-47:2:false:0:gui.xaero_default:false:0:0:false

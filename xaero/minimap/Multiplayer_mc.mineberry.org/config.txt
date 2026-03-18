@@ -1,0 +1,47 @@
+//waypoints config options
+usingMultiworldDetection:false
+ignoreServerLevelId:false
+defaultMultiworldId:mw0,0,0
+teleportationEnabled:true
+usingDefaultTeleportCommand:true
+sortType:NONE
+sortReversed:false
+
+//other config options
+ignoreHeightmaps:false
+
+//dimension types (DO NOT EDIT)
+dimensionType:minecraft$arena_mansion_42:minecraft$overworld
+dimensionType:minecraft$arena_mansion_40:minecraft$overworld
+dimensionType:minecraft$arena_hamlet_20:minecraft$overworld
+dimensionType:minecraft$arena_china_8:minecraft$overworld
+dimensionType:minecraft$arena_lighthouse_1_24:minecraft$overworld
+dimensionType:minecraft$arena_hamlet_17:minecraft$overworld
+dimensionType:minecraft$overworld:minecraft$overworld
+dimensionType:minecraft$arena_mansion_38:minecraft$overworld
+dimensionType:minecraft$arena_mansion_41:minecraft$overworld
+dimensionType:minecraft$arena_temple_47:minecraft$overworld
+dimensionType:minecraft$arena_hamlet_16:minecraft$overworld
+dimensionType:minecraft$arena_lighthouse_1_27:minecraft$overworld
+dimensionType:minecraft$arena_castle_7:minecraft$overworld
+dimensionType:minecraft$arena_china_12:minecraft$overworld
+dimensionType:minecraft$arena_castle_2:minecraft$overworld
+dimensionType:minecraft$arena_mansion_37:minecraft$overworld
+dimensionType:minecraft$arena_mansion_36:minecraft$overworld
+dimensionType:minecraft$arena_lighthouse_2_29:minecraft$overworld
+dimensionType:minecraft$arena_castle_6:minecraft$overworld
+dimensionType:minecraft$arena_china_14:minecraft$overworld
+dimensionType:minecraft$arena_temple_49:minecraft$overworld
+dimensionType:minecraft$arena_volcano_50:minecraft$overworld
+dimensionType:minecraft$arena_lighthouse_2_30:minecraft$overworld
+dimensionType:minecraft$arena_hamlet_15:minecraft$overworld
+dimensionType:minecraft$arena_lighthouse_1_25:minecraft$overworld
+dimensionType:minecraft$arena_lighthouse_1_22:minecraft$overworld
+dimensionType:minecraft$arena_temple_44:minecraft$overworld
+dimensionType:minecraft$lobby:minecraft$overworld
+dimensionType:minecraft$arena_castle_5:minecraft$overworld
+dimensionType:minecraft$arena_lighthouse_2_35:minecraft$overworld
+dimensionType:minecraft$arena_lighthouse_1_26:minecraft$overworld
+dimensionType:minecraft$arena_volcano_53:minecraft$overworld
+dimensionType:minecraft$arena_china_9:minecraft$overworld
+//server waypoints
